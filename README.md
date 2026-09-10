@@ -43,7 +43,4 @@ ir_sfs/
 ## Experimentation
 
 We used astronomical data about photometric redshift estimation using colours and magnitudes. Experimental data can be found in Curran et al. (2021) *QSO photometric redshifts using machine learning and neural networks* <https://doi.org/10.1093/mnras/stab485>
-<<<<<<< HEAD
 
-=======
->>>>>>> 229b93be55f9a03a27bb40693ece16ac6b2d0ff2
